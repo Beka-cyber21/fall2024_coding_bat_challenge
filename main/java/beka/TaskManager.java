@@ -1,3 +1,5 @@
+package beka;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
